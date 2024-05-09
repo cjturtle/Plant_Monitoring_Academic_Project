@@ -202,7 +202,7 @@ const Buttons = () => {
             </CCardBody>
             <div className="me-5 mb-3 d-flex justify-content-end  border-danger">
               <CButton color="primary" type="submit">
-                Submit form
+                Submit
               </CButton>
             </div>
           </CCard>
@@ -325,7 +325,7 @@ const Buttons = () => {
             </CCardBody>
             <div className="me-5 mb-3 d-flex justify-content-end  border-danger">
               <CButton color="primary" type="submit">
-                Submit form
+                Submit
               </CButton>
             </div>
           </CCard>
